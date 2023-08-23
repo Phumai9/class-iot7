@@ -2,7 +2,7 @@
 
 ## Get hardware level operations e.g. wash_count
 ```
-Topic: v1/hw/get/washing-01/model-01/WSH-SN001
+Topic: v1/hw/get/6310301009/model-01/WSH-SN001
 Payload: {
     "action"    : "get",
     "project"   : "washing-01",
